@@ -35,3 +35,6 @@ Each active customer pays $100(base fee) per month for core product.
    a. Each support agent increases CSAT by 1 percentage point.
       For every one percentage point increase in CSAT, customer churn decreases by 15%.
       CSAT <= 100%
+
+Code:
+https://colab.research.google.com/drive/1oOGkd3kC6y1OaEKGiyogAbuIrLyeWHOA?authuser=1#scrollTo=ftkvBDloVGM1
