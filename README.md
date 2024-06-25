@@ -1,10 +1,10 @@
 # Operations-Case-3
-20 employees //
-1,000 initial customers
-25 new customers per month
-10% monthly customer churn
-70% CSAT (customer satisfaction)
-Each active customer pays $100(base fee) per month for core product
+20 employees,
+1,000 initial customers, 
+25 new customers per month,
+10% monthly customer churn,
+70% CSAT (customer satisfaction),
+Each active customer pays $100(base fee) per month for core product,
 
 Three work position
 1. New Business Acquisition (These people are responsible for selling and getting new customers in the door)
