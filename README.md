@@ -3,7 +3,7 @@
 
 1,000 initial customers, 
 
-25 new customers per month,
+25 new customers per month(natural growth),
 
 10% monthly customer churn,
 
