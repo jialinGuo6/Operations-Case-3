@@ -15,13 +15,13 @@ Each active customer pays $100(base fee) per month for core product,
 Three work position
 #1. New Business Acquisition (These people are responsible for selling and getting new customers in the door)
 
-   a.Each new business acquisition employee can add an additional 5 customers per month
+   a.Each new business acquisition employee can add 5 new customers per month
 
 #2. Account Management (These people help existing customers; they drive revenue growth from the customers they work with and improve retention)
 
    a. Each account manager can manage 25 customers
 
-   b. Account managers increase revenue by 20% per month for the customers accounts they manage, up to 6 months.
+   b. Account managers increase revenue by 20% per month for the customers' accounts they manage, up to 6 months.
       To be clear, this revenue growth increases by 20% per month until the 6th month,
       at which point the revenue is maxed out and remains constant for the remainder of the time the customer has the account manager.
       (e.g. if the customer has an account manager in month 1, they will pay $120, in month 2 they will pay $144, etc.)
