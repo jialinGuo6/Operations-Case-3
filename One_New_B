@@ -22,4 +22,6 @@
 22 th 110 new_business_revenue 11000 ==> 126500
 23 th 115 new_business_revenue 11500 ==> 138000
 24 th 120 new_business_revenue 12000 ==> 150000
-Revenue from new_business in 24 months:        $3000000.00
+
+Revenue from new_business(1) in 24 months:        $150000.00
+Revenue from new_business(20) in 24 months:       $3000000.00
