@@ -13,11 +13,11 @@ Each active customer pays $100(base fee) per month for core product,
 
 
 Three work position
-1. New Business Acquisition (These people are responsible for selling and getting new customers in the door)
+#1. New Business Acquisition (These people are responsible for selling and getting new customers in the door)
 
    a.Each new business acquisition employee can add an additional 5 customers per month
 
-3. Account Management (These people help existing customers; they drive revenue growth from the customers they work with and improve retention)
+#2. Account Management (These people help existing customers; they drive revenue growth from the customers they work with and improve retention)
 
    a. Each account manager can manage 25 customers
 
