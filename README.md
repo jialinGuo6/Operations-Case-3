@@ -9,15 +9,17 @@
 
 70% CSAT (customer satisfaction),
 
-Each active customer pays $100(base fee) per month for core product,
+Each active customer pays $100(base fee) per month for core product.
 
 
-Three work position
-#1. New Business Acquisition (These people are responsible for selling and getting new customers in the door)
+
+#Three work position
+
+1. New Business Acquisition (These people are responsible for selling and getting new customers in the door)
 
    a.Each new business acquisition employee can add 5 new customers per month
 
-#2. Account Management (These people help existing customers; they drive revenue growth from the customers they work with and improve retention)
+2. Account Management (These people help existing customers; they drive revenue growth from the customers they work with and improve retention)
 
    a. Each account manager can manage 25 customers
 
@@ -28,7 +30,7 @@ Three work position
 
    c. If the customer switches or loses account management, the payment drops back to the base fee of $100 per month.
 
-#3. Support(These people solve customer problems; they improve retention for any active customer)
+3. Support(These people solve customer problems; they improve retention for any active customer)
    
    a. Each support agent increases CSAT by 1 percentage point.
       For every one percentage point increase in CSAT, customer churn decreases by 15%.
