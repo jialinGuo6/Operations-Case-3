@@ -386,3 +386,29 @@ Month 1 Support: 0, Month 2 Support: 1, Total Churn: 1224.10 ,Total Revenue: $34
 Month 1 Support: 0, Month 2 Support: 0, Total Churn: 1290.18 ,Total Revenue: $3373355.97
 
 Best support allocation: Month 1: 20, Month 2: 6 with total revenue: $4926369.46
+##############################################
+Month 1 - Total Customers: 1021.1240468915486, Churned Customers: 3.8759531084514354, CSAT: 90.00, Churn Rate: 0.388%
+Month 2 - Total Customers: 1044.6313536300622, Churned Customers: 1.4926932614864195, CSAT: 96.00, Churn Rate: 0.146%
+Month 3 - Total Customers: 1068.1042970623046, Churned Customers: 1.5270565677576704, CSAT: 96.00, Churn Rate: 0.146%
+Month 4 - Total Customers: 1091.5429274210323, Churned Customers: 1.5613696412723141, CSAT: 96.00, Churn Rate: 0.146%
+Month 5 - Total Customers: 1114.9472948655712, Churned Customers: 1.595632555461289, CSAT: 96.00, Churn Rate: 0.146%
+Month 6 - Total Customers: 1138.317449481923, Churned Customers: 1.6298453836481916, CSAT: 96.00, Churn Rate: 0.146%
+Month 7 - Total Customers: 1161.6534412828735, Churned Customers: 1.6640081990494324, CSAT: 96.00, Churn Rate: 0.146%
+Month 8 - Total Customers: 1184.955320208099, Churned Customers: 1.698121074774394, CSAT: 96.00, Churn Rate: 0.146%
+Month 9 - Total Customers: 1208.2231361242734, Churned Customers: 1.732184083825586, CSAT: 96.00, Churn Rate: 0.146%
+Month 10 - Total Customers: 1231.4569388251746, Churned Customers: 1.7661972990988022, CSAT: 96.00, Churn Rate: 0.146%
+Month 11 - Total Customers: 1254.6567780317912, Churned Customers: 1.8001607933832764, CSAT: 96.00, Churn Rate: 0.146%
+Month 12 - Total Customers: 1277.8227033924293, Churned Customers: 1.8340746393618375, CSAT: 96.00, Churn Rate: 0.146%
+Month 13 - Total Customers: 1300.9547644828183, Churned Customers: 1.8679389096110666, CSAT: 96.00, Churn Rate: 0.146%
+Month 14 - Total Customers: 1324.053010806217, Churned Customers: 1.9017536766014507, CSAT: 96.00, Churn Rate: 0.146%
+Month 15 - Total Customers: 1347.1174917935193, Churned Customers: 1.9355190126975386, CSAT: 96.00, Churn Rate: 0.146%
+Month 16 - Total Customers: 1370.1482568033612, Churned Customers: 1.9692349901580954, CSAT: 96.00, Churn Rate: 0.146%
+Month 17 - Total Customers: 1393.1453551222248, Churned Customers: 2.0029016811362577, CSAT: 96.00, Churn Rate: 0.146%
+Month 18 - Total Customers: 1416.108835964545, Churned Customers: 2.036519157679687, CSAT: 96.00, Churn Rate: 0.146%
+Month 19 - Total Customers: 1439.0387484728144, Churned Customers: 2.0700874917307255, CSAT: 96.00, Churn Rate: 0.146%
+Month 20 - Total Customers: 1461.9351417176879, Churned Customers: 2.103606755126549, CSAT: 96.00, Churn Rate: 0.146%
+Month 21 - Total Customers: 1484.7980646980886, Churned Customers: 2.137077019599319, CSAT: 96.00, Churn Rate: 0.146%
+Month 22 - Total Customers: 1507.6275663413123, Churned Customers: 2.1704983567763407, CSAT: 96.00, Churn Rate: 0.146%
+Month 23 - Total Customers: 1530.4236955031322, Churned Customers: 2.2038708381802112, CSAT: 96.00, Churn Rate: 0.146%
+Month 24 - Total Customers: 1553.1865009679032, Churned Customers: 2.237194535228976, CSAT: 96.00, Churn Rate: 0.146%
+Month 1 Support: 20, Month 2 Support: 6, Total Churn: 46.81 ,Total Revenue: $4926369.46
