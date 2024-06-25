@@ -1,5 +1,5 @@
 # Operations-Case-3
-20 employees
+20 employees //
 1,000 initial customers
 25 new customers per month
 10% monthly customer churn
