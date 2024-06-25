@@ -21,7 +21,6 @@ Month 1 Support: 19, Month 2 Support: 3, Total Churn: 85.67 ,Total Revenue: $491
 Month 1 Support: 19, Month 2 Support: 2, Total Churn: 99.51 ,Total Revenue: $4908452.11
 Month 1 Support: 19, Month 2 Support: 1, Total Churn: 115.62 ,Total Revenue: $4899156.98
 Month 1 Support: 19, Month 2 Support: 0, Total Churn: 134.32 ,Total Revenue: $4887070.02
-
 Month 1 Support: 18, Month 2 Support: 12, Total Churn: 27.91 ,Total Revenue: $4913946.31
 Month 1 Support: 18, Month 2 Support: 11, Total Churn: 31.85 ,Total Revenue: $4917386.36
 Month 1 Support: 18, Month 2 Support: 10, Total Churn: 36.48 ,Total Revenue: $4920125.41
@@ -35,7 +34,6 @@ Month 1 Support: 18, Month 2 Support: 3, Total Churn: 100.26 ,Total Revenue: $49
 Month 1 Support: 18, Month 2 Support: 2, Total Churn: 116.35 ,Total Revenue: $4897382.99
 Month 1 Support: 18, Month 2 Support: 1, Total Churn: 135.05 ,Total Revenue: $4885309.16
 Month 1 Support: 18, Month 2 Support: 0, Total Churn: 156.71 ,Total Revenue: $4870014.37
-
 Month 1 Support: 17, Month 2 Support: 13, Total Churn: 28.84 ,Total Revenue: $4911787.08
 Month 1 Support: 17, Month 2 Support: 12, Total Churn: 32.78 ,Total Revenue: $4915230.31
 Month 1 Support: 17, Month 2 Support: 11, Total Churn: 37.40 ,Total Revenue: $4917973.10
@@ -50,7 +48,6 @@ Month 1 Support: 17, Month 2 Support: 3, Total Churn: 117.22 ,Total Revenue: $48
 Month 1 Support: 17, Month 2 Support: 2, Total Churn: 135.90 ,Total Revenue: $4883237.56
 Month 1 Support: 17, Month 2 Support: 1, Total Churn: 157.55 ,Total Revenue: $4867960.75
 Month 1 Support: 17, Month 2 Support: 0, Total Churn: 182.57 ,Total Revenue: $4848981.02
-
 Month 1 Support: 16, Month 2 Support: 14, Total Churn: 29.94 ,Total Revenue: $4909246.80
 Month 1 Support: 16, Month 2 Support: 13, Total Churn: 33.87 ,Total Revenue: $4912693.79
 Month 1 Support: 16, Month 2 Support: 12, Total Churn: 38.49 ,Total Revenue: $4915440.98
@@ -66,7 +63,6 @@ Month 1 Support: 16, Month 2 Support: 3, Total Churn: 136.90 ,Total Revenue: $48
 Month 1 Support: 16, Month 2 Support: 2, Total Churn: 158.53 ,Total Revenue: $4865544.73
 Month 1 Support: 16, Month 2 Support: 1, Total Churn: 183.53 ,Total Revenue: $4846589.58
 Month 1 Support: 16, Month 2 Support: 0, Total Churn: 212.33 ,Total Revenue: $4823395.24
-
 Month 1 Support: 15, Month 2 Support: 15, Total Churn: 31.22 ,Total Revenue: $4906258.24
 Month 1 Support: 15, Month 2 Support: 14, Total Churn: 35.16 ,Total Revenue: $4909709.64
 Month 1 Support: 15, Month 2 Support: 13, Total Churn: 39.77 ,Total Revenue: $4912462.02
@@ -83,7 +79,6 @@ Month 1 Support: 15, Month 2 Support: 3, Total Churn: 159.69 ,Total Revenue: $48
 Month 1 Support: 15, Month 2 Support: 2, Total Churn: 184.66 ,Total Revenue: $4843776.13
 Month 1 Support: 15, Month 2 Support: 1, Total Churn: 213.44 ,Total Revenue: $4820615.34
 Month 1 Support: 15, Month 2 Support: 0, Total Churn: 246.46 ,Total Revenue: $4792625.55
-
 Month 1 Support: 14, Month 2 Support: 16, Total Churn: 32.74 ,Total Revenue: $4902742.29
 Month 1 Support: 14, Month 2 Support: 15, Total Churn: 36.67 ,Total Revenue: $4906198.88
 Month 1 Support: 14, Month 2 Support: 14, Total Churn: 41.27 ,Total Revenue: $4908957.35
@@ -101,7 +96,6 @@ Month 1 Support: 14, Month 2 Support: 3, Total Churn: 186.00 ,Total Revenue: $48
 Month 1 Support: 14, Month 2 Support: 2, Total Churn: 214.74 ,Total Revenue: $4817344.86
 Month 1 Support: 14, Month 2 Support: 1, Total Churn: 247.72 ,Total Revenue: $4789400.73
 Month 1 Support: 14, Month 2 Support: 0, Total Churn: 285.42 ,Total Revenue: $4755988.31
-
 Month 1 Support: 13, Month 2 Support: 17, Total Churn: 34.52 ,Total Revenue: $4898605.88
 Month 1 Support: 13, Month 2 Support: 16, Total Churn: 38.44 ,Total Revenue: $4902068.57
 Month 1 Support: 13, Month 2 Support: 15, Total Churn: 43.04 ,Total Revenue: $4904834.22
@@ -120,7 +114,6 @@ Month 1 Support: 13, Month 2 Support: 3, Total Churn: 216.26 ,Total Revenue: $48
 Month 1 Support: 13, Month 2 Support: 2, Total Churn: 249.20 ,Total Revenue: $4785606.83
 Month 1 Support: 13, Month 2 Support: 1, Total Churn: 286.85 ,Total Revenue: $4752256.37
 Month 1 Support: 13, Month 2 Support: 0, Total Churn: 329.66 ,Total Revenue: $4712757.45
-
 Month 1 Support: 12, Month 2 Support: 18, Total Churn: 36.62 ,Total Revenue: $4893739.51
 Month 1 Support: 12, Month 2 Support: 17, Total Churn: 40.53 ,Total Revenue: $4897209.39
 Month 1 Support: 12, Month 2 Support: 16, Total Churn: 45.13 ,Total Revenue: $4899983.47
@@ -140,7 +133,6 @@ Month 1 Support: 12, Month 2 Support: 3, Total Churn: 250.95 ,Total Revenue: $47
 Month 1 Support: 12, Month 2 Support: 2, Total Churn: 288.54 ,Total Revenue: $4747865.85
 Month 1 Support: 12, Month 2 Support: 1, Total Churn: 331.28 ,Total Revenue: $4708450.72
 Month 1 Support: 12, Month 2 Support: 0, Total Churn: 379.58 ,Total Revenue: $4662180.88
-
 Month 1 Support: 11, Month 2 Support: 19, Total Churn: 39.08 ,Total Revenue: $4888014.37
 Month 1 Support: 11, Month 2 Support: 18, Total Churn: 42.99 ,Total Revenue: $4891492.71
 Month 1 Support: 11, Month 2 Support: 17, Total Churn: 47.58 ,Total Revenue: $4894276.71
