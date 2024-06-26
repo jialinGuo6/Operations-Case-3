@@ -37,4 +37,5 @@ Each active customer pays $100(base fee) per month for core product.
       CSAT <= 100%
 
 Code:
-https://colab.research.google.com/drive/1oOGkd3kC6y1OaEKGiyogAbuIrLyeWHOA?authuser=1#scrollTo=ftkvBDloVGM1
+https://colab.research.google.com/drive/1oOGkd3kC6y1OaEKGiyogAbuIrLyeWHOA?usp=sharing
+
