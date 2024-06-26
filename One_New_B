@@ -25,3 +25,19 @@
 
 Revenue from new_business(1) in 24 months:        $150000.00
 Revenue from new_business(20) in 24 months:       $3000000.00
+
+25 th 125 new_business_revenue 12500 ==> 162500
+26 th 130 new_business_revenue 13000 ==> 175500
+27 th 135 new_business_revenue 13500 ==> 189000
+28 th 140 new_business_revenue 14000 ==> 203000
+29 th 145 new_business_revenue 14500 ==> 217500
+30 th 150 new_business_revenue 15000 ==> 232500
+31 th 155 new_business_revenue 15500 ==> 248000
+32 th 160 new_business_revenue 16000 ==> 264000
+33 th 165 new_business_revenue 16500 ==> 280500
+34 th 170 new_business_revenue 17000 ==> 297500
+35 th 175 new_business_revenue 17500 ==> 315000
+36 th 180 new_business_revenue 18000 ==> 333000
+
+Revenue from new_business(1) in 36 months:        $333000.00
+Revenue from new_business(20) in 36 months:       $6660000.00
